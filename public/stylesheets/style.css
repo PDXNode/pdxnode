@@ -1,0 +1,40 @@
+body {
+  border-top: 6px solid #387491;
+  background-color: #fff;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+body a {
+  color: #387491;
+}
+body .pullout {
+  background-color: #777;
+  color: #fff;
+}
+body .pullout a {
+  color: #fae922;
+}
+body #intro {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+body #intro #logo {
+  background-image: url('/images/logo.png');
+  width: 277px;
+  height: 119px;
+  display: inline-block;
+}
+body #main {
+  padding-top: 18px;
+  padding-bottom: 40px;
+}
+body #resources {
+  margin-top: 20px;
+}
+body #resources ul {
+  list-style: none;
+}
+body #resources ul li {
+  display: inline-block;
+  padding-right: 20px;
+}
