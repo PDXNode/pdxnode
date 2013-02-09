@@ -18,3 +18,9 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate for PDXNode.
 
 If a participant engages in behavior that violates this code of conduct, the organizers may expel that participant and refuse them entrance to any further meetups.
+
+## credit where credit is due
+
+This code of conduct is largely drawn from [PyCon's code of conduct](https://us.pycon.org/2012/codeofconduct/), and like anything else PDXNode-related, is entirely in the hands
+of the PDXNode community for editing.
+
