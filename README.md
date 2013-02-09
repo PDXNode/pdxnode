@@ -14,4 +14,6 @@ For each meetup, make a new directory with an `index.md` at least a month or two
 name the directory in the style, `2013-jan`. Once the talks for the meetup are finalized, put
 the lineup in `index.md` with relative links to the talks.
 
+our [code of conduct](code-of-conduct.md).
+
 
