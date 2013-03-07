@@ -14,7 +14,7 @@ use a different module.)
 
 ## Speaker: Chris Dickinson
 
-[![profile pic](https://secure.gravatar.com/avatar/f70956bdb907c2f8b39ff624ea925ccd?s=420)](https://twitter.com/isntitvacant)
+[![profile pic](https://secure.gravatar.com/avatar/f70956bdb907c2f8b39ff624ea925ccd?s=100)](https://twitter.com/isntitvacant)
 
 I'm a JavaScript engineer at [Urban Airship](http://urbanairship.com/) in love with streaming APIs. We use
 Node concepts on the frontend (see [domnode](https://github.com/maxogden/domnode)); as well as to run our
