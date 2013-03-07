@@ -18,7 +18,7 @@ use a different module.)
 
 I'm a JavaScript engineer at [Urban Airship](http://urbanairship.com/) in love with streaming APIs. We use
 Node concepts on the frontend (see [domnode](https://github.com/maxogden/domnode)); as well as to run our
-JS test driver, [drive.js](http://github.com/urbanairship.com/drive.js).
+JS test driver, [drive.js](http://github.com/urbanairship/drive.js).
 
 Some of my streaming APIs:
 
