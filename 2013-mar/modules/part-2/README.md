@@ -4,6 +4,7 @@ prior to streams2 (i.e., in `node < 0.10`); request streams given to an http
 server were not paused by default.
 
 > to see the first example, run `node server-0.js` and open `http://localhost:7777/`.
+>
 > to see the second example, run `node server-1.js` and open `http://localhost:7777/`.
 >
 > make sure you've called `npm install` while in the `mar-2013/modules-example` directory!
