@@ -1,0 +1,37 @@
+{
+  "name": "through-example",
+  "version": "0.0.0",
+  "description": "examples of using through",
+  "main": "null",
+  "dependencies": {
+    "brake": "~0.1.0",
+    "debounce": "~0.0.1",
+    "concat-stream": "~0.1.1",
+    "through": "~2.2.1",
+    "JSONStream": "~0.4.3",
+    "ever": "~0.0.3",
+    "line-stream": "~0.0.0",
+    "mkdirp": "~0.3.5",
+    "templatinglanguage": "~0.0.1"
+  },
+  "devDependencies": {
+    "browservefy": "0.0.9",
+    "browserify": "~2.4.3"
+  },
+  "scripts": {
+    "example-1": "./node_modules/.bin/browservefy part-3/main-0.js",
+    "example-2": "node part-3/server-0.js part-3/main-1.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "nope",
+    "not",
+    "any",
+    "none"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT"
+}
