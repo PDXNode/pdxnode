@@ -1,5 +1,6 @@
-var request = require('request')
-  , _       = require('underscore');
+var request  = require('request')
+  , _        = require('underscore')
+  , timezone = require('timezone/loaded');
 
 eventsUrl = 'https://api.meetup.com/2/events?' +
   'key=8048211411406b471e621e3e602c3e3&sign=true&group_id=6693792&page=20';
@@ -20,8 +21,7 @@ exports.index = function(req, res) {
         },
         name: result.name,
         url: result.event_url,
-        time: result.time,
-        time_formatted: new Date(result.time).toString(),
+        time_formatted: timezone(result.time, '%A %B %d %R', 'en_US', "America/Los_Angeles"),
         description: result.description
       };
     }
