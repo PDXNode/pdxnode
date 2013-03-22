@@ -1,10 +1,10 @@
 var request = require('request')
   , _       = require('underscore');
 
-events = 'https://api.meetup.com/2/events?' +
+eventsUrl = 'https://api.meetup.com/2/events?' +
   'key=8048211411406b471e621e3e602c3e3&sign=true&group_id=6693792&page=20';
 exports.index = function(req, res) {
-  request(events, function (error, response, body) {
+  request(eventsUrl, function (error, response, body) {
     results = JSON.parse(body).results;
     result = _.min(results, function (item) { return item.time; });
     nextEvent = undefined;
@@ -24,7 +24,7 @@ exports.index = function(req, res) {
         time_formatted: new Date(result.time).toString(),
         description: result.description
       };
-    };
+    }
     res.render('index', { title: 'PDXnode', nextEvent: nextEvent });
   });
 
