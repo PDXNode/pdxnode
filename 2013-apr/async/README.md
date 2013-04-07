@@ -16,16 +16,16 @@ As with almost any pattern, it's possible to get too much of a good thing. One s
 
 ## Talk Outline:
 
-####1. [A Contrived Example of a Nested-Callback Problem](example1.js)
+####1. [A Contrived Example of a Nested-Callback Problem](./example1.js)
 This should be considered an anti-pattern. We read in a directory listing, gets stats on each of the file and then dump the information into a database one item at a time as the `fs.stat()` calls come back. When and where do we close the database? This example uses a _particularly bad_ strategy of calling `setTimeout()` and hoping for the best.
 
-####2. [A Better Way, but Still Awkward](example2.js)
+####2. [A Better Way, but Still Awkward](./example2.js)
 Here we side-step the problem by batching the database writes and only issuing one call. There's a little bit of ad hoc flow control as we count the `fs.stat()` returns to figure out when we're ready to issue the batch write. Our code is steadily migrating toward the right side of the terminal as out callbacks nest.
 
-####3. [Example 1 Reimplemented with async](example3.js)
+####3. [Example 1 Reimplemented with async](./example3.js)
 We use the async API method `async.each()` to issue all the `fs.stat()` requests in parallel. Async keeps track of when all the calls have come back and executes a final callback to close the database when we're done (or when one of the calls returns an error).
 
-####4. [The Initial Problem Reexpressed with async](example4.js)
+####4. [The Initial Problem Reexpressed with async](./example4.js)
 We reimplement the logic from Example 2 using async. `async.waterfall()` replaces the original nested callback structure, while `async.map()` handles the creation of the batch database write. The final callback catches any errors and closes the database. This provides us with a clean and easily-extensible structure.
 
 [1]: https://github.com/caolan/async
