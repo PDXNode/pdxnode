@@ -1,0 +1,11 @@
+{
+	"name": "async-examples",
+	"author": "David Manning",
+	"version": "0.0.1",
+	"description": "A few silly examples of an async module use case",
+	"dependencies": {
+		"colors": "*",
+		"levelup": "*",
+		"async": "*"
+	}
+}
