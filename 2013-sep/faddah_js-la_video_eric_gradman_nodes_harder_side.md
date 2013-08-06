@@ -31,4 +31,4 @@
 # the latter based on the twitter account. His musings can also be seen at various comedy Open Mics and Showcases 
 # around greater Portland. He also refers to himself as “pleasure activist” and “beer snob.” Oh, and he has 
 # fallen deeply in love with Portland as a transplant; for it’s strong coffee, stronger women, tasteful micro-
-# crafted beer, and it’s wild, Open Source Heart.
+# crafted beer, and it’s wild, Open Source Heart.  
