@@ -1,1 +1,0 @@
-# INDEX for September 2013 PDX Node meet-up proposed talks
