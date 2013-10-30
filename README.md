@@ -8,6 +8,9 @@ Portland, OR's very own Node.js usergroup/meetup.
 See [the lightning talk](lightning-talk-template.md) and [longform talk](talk-template.md)
 templates for more details. 
 
+See [the request for talks](request-for-talk.md) to submit what you'd love to experience at
+our meetup.
+
 #### for organizers:
 
 For each meetup, make a new directory with an `index.md` at least a month or two in advance --
