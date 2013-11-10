@@ -16,7 +16,7 @@ block content
       iframe.map(width="100%", height="500px", frameborder="0", scrolling="no", marginheight="0", marginwidth="0",
         src="https://maps.google.com/maps?q=#{nextEvent.location.address_full}&amp;ie=UTF8&amp;hq=&amp;hnear=#{nextEvent.location.name}, #{nextEvent.location.address_full}&amp;t=m&amp;ll=#{nextEvent.location.lat},#{nextEvent.location.lon}&amp;spn=0.002631,0.00456&amp;z=15&amp;output=embed")
     .banner
-      p #{nextEvent.location.name} is at #{nextEvent.location.address_simple} #{nextEvent.location.directions} --
+      p #{nextEvent.location.name} is at #{nextEvent.location.address_simple} #{nextEvent.location.directions}—
         a(href="#{nextEvent.url}", target="_blank") Meetup
   - else
     .banner
