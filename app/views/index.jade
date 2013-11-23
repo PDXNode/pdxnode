@@ -7,24 +7,26 @@ block content
     .container
       #logo
       p 1st Thursday is presentation night. 3rd Thursday is project night.
-  #main.pullout
-    .container
-      - if (nextEvent)
-        h4 Next: #{nextEvent.name}
-        p#when #{nextEvent.time_formatted}
-        iframe(width="425", height="350", frameborder="0", scrolling="no", marginheight="0", marginwidth="0",
-          src="https://maps.google.com/maps?q=#{nextEvent.location.address_full}&amp;ie=UTF8&amp;hq=&amp;hnear=#{nextEvent.location.name}, #{nextEvent.location.address_full}&amp;t=m&amp;ll=#{nextEvent.location.lat},#{nextEvent.location.lon}&amp;spn=0.002631,0.00456&amp;z=17&amp;output=embed")
-        p #{nextEvent.location.name} is at #{nextEvent.location.address_simple} #{nextEvent.location.directions} -- 
-          a(href="#{nextEvent.url}", target="_blank") Meetup
-      - else
-        h4 
-          span Check&nbsp;
-          a(href="http://www.meetup.com/nodepdx/", target="_blank") Meetup
-          span &nbsp;for the next event
+
+  - if (nextEvent)
+    .banner
+      h4 Next: #{nextEvent.name}
+      p#when #{nextEvent.time_formatted}
+    .inset
+      iframe.map(width="100%", height="500px", frameborder="0", scrolling="no", marginheight="0", marginwidth="0",
+        src="https://maps.google.com/maps?q=#{nextEvent.location.address_full}&amp;ie=UTF8&amp;hq=&amp;hnear=#{nextEvent.location.name}, #{nextEvent.location.address_full}&amp;t=m&amp;ll=#{nextEvent.location.lat},#{nextEvent.location.lon}&amp;spn=0.002631,0.00456&amp;z=15&amp;output=embed")
+    .banner
+      p #{nextEvent.location.name} is at #{nextEvent.location.address_simple} #{nextEvent.location.directions}—
+        a(href="#{nextEvent.url}", target="_blank") Meetup
+  - else
+    .banner
+      p.
+        Check
+        <a href="http://www.meetup.com/nodepdx/" target="_blank">Meetup</a>
+        or the next event
 
   #resources
     .container
-      p Resources
       ul
         li
           a(href="http://www.meetup.com/nodepdx/", target="_blank") PDXnode Meetup
