@@ -2,6 +2,7 @@ pdxnode
 =======
 
 Portland, OR's very own Node.js usergroup/meetup.
+Official site can be found at [pdxnode.org](http://pdxnode.org/)
 
 ### We use github to submit talks, lightning and otherwise
 
