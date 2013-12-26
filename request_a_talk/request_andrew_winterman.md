@@ -1,7 +1,5 @@
 # Request Andrew Winterman to share simple-scuttle
 
-Please include the following format:
-
 ## Topic
 simple-scuttle and gossip protocol 
 
