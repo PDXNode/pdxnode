@@ -1,21 +1,18 @@
 # Request a talk!
 
-Please include the following format:
+To request a talk, copy from below the dashed line, and fill in the pertinent bits:
 
-## Topic
-Whatever interests you and is possibly relevant to Node.js
+----------------------
 
-## Format 
-Lightning talk, longform talk, workshop?
+# Desired Talk Topic
 
-## Suggested Speaker
-Please be kind. If you know someone who would really rock at this, ping them first unless
-  they have already explicitly stated they would love to share. Let's not troll anyone.
+A few sentences about the topic you'd like to hear about. Briefly, what is it? Why do
+you want to hear about it? Would you recommend any speaker in particular?
+
+## Suggested Speaker(s)
+
+* Speaker name, [twitter](https://twitter.com/their-twitter-handle) (or other contact info!)
+  *Please be kind and ping the speaker-to-be before proposing them!*
 
 ## Miscellaneous info
 Any comments or context you'd like to share regarding this talk request.
-
-
-# I would love to hear a talk about:
-
-<insert the above information here!>
