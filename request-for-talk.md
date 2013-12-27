@@ -1,6 +1,12 @@
 # Request a talk!
+[Create an issue here](https://github.com/PDXNode/pdxnode/issues?milestone=1&state=open). Copy the template below and apply the label "request a speaker".  
 
-To request a talk, copy from below the dashed line, and fill in the pertinent bits:
+View currently [submitted](https://github.com/PDXNode/pdxnode/issues?milestone=1&page=1&state=open) talks as well as [talks that have already taken
+place](https://github.com/PDXNode/pdxnode/issues?milestone=1&page=1&state=closed).  
+
+
+To request a talk, copy from below the dashed line, and fill in the
+pertinent bits:
 
 ----------------------
 
