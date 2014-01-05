@@ -11,7 +11,13 @@ Attendees who have access to [Docker](http://docker.io) during the talk will get
 
 - - -
 
-**Check back here** for an update before *Thursday*, I will post a docker image to pre-download
+Please *pre-install* the Docker image (~300MB) with:
+
+```
+sudo docker pull nodeos/nodeos
+```
+
+The above image was generated from the [NodeOS Docker Repository](https://github.com/NodeOS/NodeOS-Docker).
 
 ## Speaker Jacob Groundwater
 
