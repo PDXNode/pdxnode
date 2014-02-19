@@ -1,4 +1,5 @@
-## At beginning of presentation night, announce:
+At beginning of night, announce:
+--------------------------------
 
 - Share/thanks sponsors(venue, food/bev, etc.)
 - Welcome everyone. Raise hands as organizers to say hi. 
@@ -10,24 +11,26 @@ feel uncomfortable, please see _______. They are friendly and happy to help, lis
 And please ask questions during the talk! We're all here to learn.
 - Do you have a show&tell?
 
-## Then announce agenda: 
-Agenda for evening:
--------------------
+Then announce agenda:
+---------------------
+### Agenda for evening:
 This is an example. Adjust the line-up accordingly.
 - 5-min module
 - lightning 7min
 - two long-form(30): Speaker 1, topic; Speaker 2, topic;
 
-## After talks:
+After talks:
+------------
 - Who's hiring?
 - "Thanks for coming! Y'all are rad."
 - "Now let's go talk Node.js and JavaScript at ________ after we clean up our host space."
 
 
+------------
 
 
-Orgs running event:
--------------------
+
+### Organizers running event:
 - Check-in with speakers and introduce yourself. Make sure they have what they need.
 - Get speaker info to share talk on knode/speakers.
 - Time the talks! Give a few minutes leeway if there's still a lot of excitement. 
