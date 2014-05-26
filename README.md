@@ -12,6 +12,8 @@ templates for more details.
 See [the request for talks](request-for-talk.md) to submit what you'd love to experience at
 our meetup.
 
+Come talk to us in [#pdxnode](http://webchat.freenode.net/?channels=pdxnode&uio=d4) on freenode.
+
 #### for organizers:
 
 For each meetup, make a new directory with an `index.md` at least a month or two in advance --
