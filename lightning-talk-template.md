@@ -20,7 +20,7 @@ applicable.
 
 To submit your talk, fork this repository and clone it. Copy this template into your desired talk date's directory as `lightning-<your_talk_name>.md`.
 Then, edit it to describe your lightning talk! Commit your new file, and push it to your fork, then issue a pull request titled
-"Lightning talk proposal". Feel free to ping the organizers in `#nodepdx` on IRC to ensure they see your pull request.
+"Lightning talk proposal". Feel free to ping the organizers in `#pdxnode` on IRC to ensure they see your pull request.
 If your talk is accepted, it will get merged and the organizers will reach out to you via email.
 
 Your lightning talk will only be considered for the next meetup if it's submitted at least three days in advance, to allow for discussion
