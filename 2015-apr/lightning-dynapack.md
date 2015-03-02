@@ -23,5 +23,5 @@ single-page apps, isomorphism, buzz-phrase, and other buzz-phrase :).
 
 I was trying to bootstrap a nonprofit startup (maybe I still am), but am now on
 the job hunt. I use Node.js for everything web; it seems silly to write code
-twice for the server and the browser the goal is to render HTML!
+twice for the server and the browser if the goal is to render HTML!
 
