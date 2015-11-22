@@ -1,13 +1,15 @@
 pdxnode
 =======
 
+<img src="logos/pdxnode.svg" height="200">
+
 Portland, OR's very own Node.js usergroup/meetup.
 Official site can be found at [pdxnode.org](http://pdxnode.org/)
 
 ### We use github to submit talks, lightning and otherwise
 
 See [the lightning talk](lightning-talk-template.md) and [longform talk](talk-template.md)
-templates for more details. 
+templates for more details.
 
 See [the request for talks](request-for-talk.md) to submit what you'd love to experience at
 our meetup.
