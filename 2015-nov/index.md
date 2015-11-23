@@ -10,6 +10,8 @@ Jesse gave a rad talk about two modules he developed recently:
 
 [Strum](https://github.com/jarofghosts/strum): Make a stream out of almost anything
 
+[Slides](https://github.com/jarofghosts/strum-swear-talk)
+
 ## Jesse Keane
 
 <img src="https://avatars0.githubusercontent.com/u/1013892?v=3&s=460" height="200">
