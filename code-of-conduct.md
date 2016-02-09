@@ -2,7 +2,7 @@
 
 PDXNode is dedicated to providing a harassment-free meetup experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
 
-Sexual language and imagery is not appropriate for any meetup venue, including talks.
+Sexual language and imagery is not appropriate for any meetup venue, including talks and IRC's #pdxnode.
 
 Be kind to others. Do not insult or put down other attendees. Behave civilly. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PDXNode.
 
