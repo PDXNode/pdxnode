@@ -1,7 +1,7 @@
 pdxnode
 =======
 
-<img src="logos/pdxnode.svg" height="200">
+<img src="https://cdn.rawgit.com/PDXNode/pdxnode/master/logos/pdxnode.svg" height="300" width="300">
 
 Portland, OR's very own Node.js usergroup/meetup.
 Official site can be found at [pdxnode.org](http://pdxnode.org/)
