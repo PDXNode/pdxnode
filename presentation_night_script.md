@@ -26,7 +26,7 @@ This is an example. Adjust the line-up accordingly.
 After talks:
 ------------
 - "Thanks for coming! Y'all are rad."
-- If you would like to give a talk, or have something you'd like to show & tell? Feel free to propose a talk on our org repo: [lightening](lightening-talk-template.md), [long](talk-template.md), or [request a talk](request-for-talk.md) on a particular topic you'd like to hear about.
+- If you would like to give a talk, or have something you'd like to show & tell? Feel free to propose a talk on our org repo: [lightning](lightning-talk-template.md), [long](talk-template.md), or [request a talk](request-for-talk.md) on a particular topic you'd like to hear about.
 - "Now let's follow _______ and go talk Node.js and JavaScript at ________ after we clean up our host space."
 
 
