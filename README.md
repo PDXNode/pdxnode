@@ -4,12 +4,12 @@ pdxnode
 <img src="https://cdn.rawgit.com/PDXNode/pdxnode/master/logos/pdxnode.svg" height="300" width="300">
 
 Portland, OR's very own Node.js usergroup/meetup.
-Official site can be found at [pdxnode.org](http://pdxnode.org/)
+Join our [Meetup](https://www.meetup.com/pdxnode/) group, and follow us on [Twitter](https://twitter.com/pdxnode)!
 
-### We use github to submit talks, lightning and otherwise
+### We use github to submit talks: lightning, long-form, and otherwise.
 
 See [the lightning talk](lightning-talk-template.md) and [longform talk](talk-template.md)
-templates for more details.
+templates for more details on submitting a talk proposal!
 
 See [the request for talks](request-for-talk.md) to submit what you'd love to experience at
 our meetup.

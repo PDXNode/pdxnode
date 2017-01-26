@@ -1,12 +1,14 @@
-# The title of the talk
+# Talk Submission Template
+
+## The title of the talk
 
 A 2-5 sentence description of the talk. If you've got a long demo of a bunch of modules, or higher level topic,
 it should be a long-form talk. Be prepared to accept questions at the end of the talk!
 
 Your aim is to get the audience interested in the topic, and to include any relevant material that'll
-pique their interest. 
+pique their interest. Your talk doesn't necessarily have to be Node.js specific, we love it when people care deeply about their topic and are excited to share!
 
-Long-form talks should be 20-30 minutes long and you should plan to have slides.
+Long-form talks should be 20-30 minutes long and you should plan to have slides. Also be ready for a few minutes of questions immediately following. 
 
 ## Speaker <Your Name>
 
@@ -22,7 +24,7 @@ Why is this talk relevant to what you do? How did you come across this topic?
 
 To submit your talk, fork this repository and clone it. Copy this template into your desired talk date's directory as `your_talk_name.md`.
 Then, edit it to describe your lightning talk! Commit your new file, and push it to your fork, then issue a pull request titled
-"Talk proposal". Feel free to ping the organizers in `#nodepdx` on IRC to ensure they see your pull request.
+"Talk proposal". Feel free to ping the organizers on Twitter at @pdxnode or in `#nodepdx` on IRC to ensure they see your pull request.
 If your talk is accepted, it will get merged and the organizers will reach out to you via email.
 
 Your talk will only be considered for the next meetup if it's submitted at least one week in advance, to allow for discussion

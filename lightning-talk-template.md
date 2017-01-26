@@ -1,6 +1,8 @@
-# The title of the lightning talk
+# Lightening Talk Template
 
-A short description of the talk. Is it about a module? Include a relevant link to the module. If it's a short demo; link
+## The title of the lightning talk
+
+A short description of the talk. What is it about? Is it about a module? Include a relevant link to the module. If it's a short demo; link
 to the relevant code on github or bitbucket.
 
 Your aim is to get your audience interested in the topic, while being brief. Shoot for 1-3 sentences
