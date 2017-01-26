@@ -4,6 +4,7 @@ pdxnode
 <img src="https://cdn.rawgit.com/PDXNode/pdxnode/master/logos/pdxnode.svg" height="300" width="300">
 
 Portland, OR's very own Node.js usergroup/meetup.
+
 Join our [Meetup](https://www.meetup.com/pdxnode/) group, and follow us on [Twitter](https://twitter.com/pdxnode)!
 
 ### We use github to submit talks: lightning, long-form, and otherwise.
