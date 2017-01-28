@@ -9,10 +9,10 @@ Join our [Meetup](https://www.meetup.com/pdxnode/) group, and follow us on [Twit
 
 ### We use github to submit talks: lightning, long-form, and otherwise.
 
-See [the lightning talk](lightning-talk-template.md) and [longform talk](talk-template.md)
+See [the lightning talk](./talk-templates/lightning-talk-template.md) and [longform talk](./talk-templates/talk-template.md)
 templates for more details on submitting a talk proposal!
 
-See [the request for talks](request-for-talk.md) to submit what you'd love to experience at
+See [the request for talks](./talk-templates/request-for-talk.md) to submit what you'd love to experience at
 our meetup.
 
 Come talk to us in [#pdxnode](http://webchat.freenode.net/?channels=pdxnode&uio=d4) on freenode.
