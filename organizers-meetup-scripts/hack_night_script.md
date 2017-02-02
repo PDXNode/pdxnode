@@ -20,7 +20,7 @@ feel uncomfortable, please talk with any of our organizers. They are friendly an
 
 - Start the show-and-tell at the appropriate time before closing depending on how many people sign up.
 
-After talks:
+When closing the night:
 ------------
 - "Thanks for coming! Y'all are rad."
 - Remind group about upcoming PDXNode Presentation Night, and ask if there are any other upcoming events they'd like to mention.
