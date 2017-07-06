@@ -15,7 +15,7 @@ Every last Thursday we put on a hack night at [Ctrl-h Hackerspace](http://pdxhac
 
 ## Weekly Videochat & Meeting Recap GoogleDoc
 Every Thursday evening at 7pm we have a videochat. It typically lasts 10-15 minutes, but is subject to go a bit longer depending on the ground we have to cover for meetup preparation that week. Weekly meeting notes are documented in a GoogleDoc (you'll need to obtain view/edit permission from another orgainzer).
-* Meeting location: [talky.io/pdxnode](talky.io/pdxnode)
+* Meeting location: [talky.io/pdxnode](https://talky.io/pdxnode)
 * [GoogleDoc](https://docs.google.com/document/d/1U8oPDxXrKFh7paydStRiTyUW52gvURMfAii_LB2V-lA/edit)
 
 ## Meetup.com Org
