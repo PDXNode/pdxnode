@@ -22,7 +22,7 @@
   },
   "scripts": {
     "build": "run-s build:*",
-    "build:assets": "mkdir -p build/assets && cp -R assets/*.svg build/assets",
+    "build:assets": "mkdir -p build/assets && cp -R assets/*.svg build/assets && echo pdxnode.org > build/CNAME",
     "build:site": "sitedown . -l assets/layout.html -b build/",
     "clean": "rm -rf build",
     "gh-pages": "npm run build && gh-pages -d build",
