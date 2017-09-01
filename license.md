@@ -1,4 +1,4 @@
-# MIT License
+# [MIT License](https://spdx.org/licenses/MIT)
 
 Copyright (c) 2017 PDXNode & Contributors
 
