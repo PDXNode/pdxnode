@@ -1,4 +1,4 @@
-# Lightening Talk Template
+# Lightning Talk Template
 
 ## The title of the lightning talk
 
@@ -6,13 +6,13 @@ A short description of the talk. What is it about? Is it about a module? Include
 to the relevant code on github or bitbucket.
 
 Your aim is to get your audience interested in the topic, while being brief. Shoot for 1-3 sentences
-that describe what the value of your talk will be. 
+that describe what the value of your talk will be.
 
 Lightning talks should be 5-10 minutes long, and slides are optional but encouraged.
 
 ## Speaker <Your Name>
 
-Include a link to your [github profile](https://github.com/pdxnode/), and it'd be cool if you 
+Include a link to your [github profile](https://github.com/pdxnode/), and it'd be cool if you
 embedded your avatar. What do you do for a living? How do you use Node? Include your twitter handle, if
 applicable.
 
@@ -30,19 +30,17 @@ and deliberation.
 
 ### Organizers
 
-Review the talk and the discussion on the pull request before merging. Has this person given good talks in the past? Do they give a 
-lot of talks, or is this their first time? Emphasis should be given to newbies who have attended at least one meetup (so you know 
+Review the talk and the discussion on the pull request before merging. Has this person given good talks in the past? Do they give a
+lot of talks, or is this their first time? Emphasis should be given to newbies who have attended at least one meetup (so you know
 they understand the format).
 
 If you decide to accept the talk, merge the pull request and email the contributor (use the email on their commit) to let them know their
-talk has been accepted. 
+talk has been accepted.
 
-If you decide not to accept the talk, but want to consider it for a future meetup, decline the pull request and comment 
+If you decide not to accept the talk, but want to consider it for a future meetup, decline the pull request and comment
 to this effect. Be sure to get specifics from the potential speaker in re: potential meetup dates that'd they'd be able to
 commit to.
 
 If the talk is unacceptable (for any of the reasons set for the in the code of conduct, or otherwise); close the pull request. Ideally, link to the relevant headers in the code of conduct, or otherwise explain your decision.
 
 After the talk, feel free to edit their talk file to include links to videos, photos, slides, or other relevant links.
-
- 

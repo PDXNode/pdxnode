@@ -1,28 +1,52 @@
-pdxnode
-=======
+<h1 align="center">
+  <br>
+  <a href="http://pdxnode.org">
+    <img src="./assets/logo.svg" width="200">
+  </a>
+  <br>
+  PDXNode
+  <br>
+  <br>
+</h1>
 
-<img src="https://cdn.rawgit.com/PDXNode/pdxnode/master/logos/pdxnode.svg" height="300" width="300">
+<h4 align="center">Portland, Oregon's very own Node.js usergroup!</h4>
 
-Portland, OR's very own Node.js usergroup/meetup.
+<p align="center">
+  <a href="https://www.meetup.com/pdxnode"><img src="https://img.shields.io/badge/meetup-view%20events%20%E2%86%92-red.svg" alt="gitter"></a>
+  <a href="https://twitter.com/pdxnode"><img src="https://img.shields.io/badge/twitter-follow%20us%20%E2%86%92-blue.svg" alt="gitter"></a>
+  <a href="https://gitter.im/pdxnode/Lobby"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg" alt="gitter"></a>
+</p>
 
-Join our [Meetup](https://www.meetup.com/pdxnode/) group, and follow us on [Twitter](https://twitter.com/pdxnode)!
+## What's this all about?
 
-### We use github to submit talks: lightning, long-form, and otherwise.
+PDXNode is a Node.js usergroup based in Portland, Oregon.
 
-See [the lightning talk](./talk-templates/lightning-talk-template.md) and [longform talk](./talk-templates/talk-template.md)
+We organize two meetups every month: one for talks, one for hacks.
+
+### Presentation Nights
+
+Every 2nd Thursday we put on a presentation night at [Vacasa](https://www.vacasa.com/contact-us/) where the goal is to provide high-quality presentations from people in the Node community locally and abroad. At the present we typically have local speakers present in person, and other geographically distributed speakers present remotely via talky.io.
+
+### Hack Nights
+
+Every last Thursday we put on a hack night at [Ctrl-H Hackerspace](http://pdxhackerspace.org/) where the goal is to provide a fun and easy-going environment for individuals & groups to hack on their own projects and ask questions along the way, as well as support begginers and people who are new to Node with help in answering questions and pair-coding.
+
+## How To Talk
+
+**We use github to submit talks: lightning, long-form, and otherwise.**
+
+See the [lightning talk](./talks/lightning.md) and [longform talk](./talks/longform.md)
 templates for more details on submitting a talk proposal!
 
-See [the request for talks](./talk-templates/request-for-talk.md) to submit what you'd love to experience at
+See the [request a talk](./talks/request-a-talk.md) to submit what you'd love to experience at
 our meetup.
 
-Come talk to us in [#pdxnode](http://webchat.freenode.net/?channels=pdxnode&uio=d4) on freenode.
+Come talk to us in [#pdxnode](http://webchat.freenode.net/?channels=pdxnode&uio=d4) on freenode or via our [gitter channel](https://gitter.im/pdxnode/Lobby).
 
-#### for organizers:
+## Code of Conduct
 
-For each meetup, make a new directory with an `index.md` at least a month or two in advance --
-name the directory in the style, `2017-jan`. Once the talks for the meetup are finalized, put
-the lineup in `index.md` with relative links to the talks.
+This usergroup is intended to be a safe, welcoming space for collaboration. All participants are expected to adhere to our [code of conduct](./code-of-conduct.md). Thank you for being kind to each other!
 
-our [code of conduct](code-of-conduct.md).
+## License
 
-
+[MIT](license.md)
