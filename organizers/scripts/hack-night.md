@@ -1,10 +1,10 @@
-At beginning of night, announce:
---------------------------------
+# Hack Night Script
+
+## At beginning of night, announce:
 
 - Share/thanks sponsors(venue, food/bev, etc.)
-- Welcome everyone. *Raise hands as organizers to say hi.* 
-- "We have a CoC. See it in the repo. Long story short: 'Don't be a jerk'. If something happens that makes you 
-feel uncomfortable, please talk with any of our organizers. They are friendly and happy to help."
+- Welcome everyone. *Raise hands as organizers to say hi.*
+- "We have a CoC. See it in the repo. Long story short: 'Don't be a jerk'. If something happens that makes you feel uncomfortable, please talk with any of our organizers. They are friendly and happy to help."
 
 - If small enough group (<= 15): go around the room and have everyone give a brief introduction of themselves to everyone.
 
@@ -20,14 +20,13 @@ feel uncomfortable, please talk with any of our organizers. They are friendly an
 
 - Start the show-and-tell at the appropriate time before closing depending on how many people sign up.
 
-When closing the night:
-------------
+## When closing the night:
+
 - "Thanks for coming! Y'all are rad."
 - Remind group about upcoming PDXNode Presentation Night, and ask if there are any other upcoming events they'd like to mention.
 
-------------
-
 ### Organizers running event:
+
 - Map out room on whiteboard with designated areas for: Individual hacking, Group Hacking, and hanging out/socializing.
 - Start 'End of Night' Show and Tell list on whiteboard.
 - Make a space for sticky-note board.
