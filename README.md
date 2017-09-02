@@ -1,21 +1,22 @@
-<h1 align="center">
-  <br>
-  <a href="http://pdxnode.org">
-    <img src="./assets/logo.svg" width="200">
-  </a>
-  <br>
-  PDXNode
-  <br>
-  <br>
-</h1>
+<div class="hero">
+  <div class="hero-body">
+    <h1 align="center">
+      <img alt="PDXNode" src="./assets/logo.svg" width="240">
+      <br>
+      <span class="text">PDXNode</span>
+      <br>
+      <br>
+    </h1>
+    <h4 align="center">Portland's very own Node.js usergroup</h4>
+    <p align="center">
+      <a href="https://www.meetup.com/pdxnode"><img src="https://img.shields.io/badge/meetup-view%20events%20%E2%86%92-red.svg" alt="gitter"></a>
+      <a href="https://twitter.com/pdxnode"><img src="https://img.shields.io/badge/twitter-follow%20us%20%E2%86%92-blue.svg" alt="gitter"></a>
+      <a href="https://gitter.im/pdxnode/Lobby"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg" alt="gitter"></a>
+    </p>
+  </div>
+</div>
 
-<h4 align="center">Portland, Oregon's very own Node.js usergroup!</h4>
-
-<p align="center">
-  <a href="https://www.meetup.com/pdxnode"><img src="https://img.shields.io/badge/meetup-view%20events%20%E2%86%92-red.svg" alt="gitter"></a>
-  <a href="https://twitter.com/pdxnode"><img src="https://img.shields.io/badge/twitter-follow%20us%20%E2%86%92-blue.svg" alt="gitter"></a>
-  <a href="https://gitter.im/pdxnode/Lobby"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg" alt="gitter"></a>
-</p>
+<div class="content">
 
 ## What's this all about?
 
@@ -47,6 +48,4 @@ Come talk to us in [#pdxnode](http://webchat.freenode.net/?channels=pdxnode&uio=
 
 This usergroup is intended to be a safe, welcoming space for collaboration. All participants are expected to adhere to our [code of conduct](./code-of-conduct.md). Thank you for being kind to each other!
 
-## License
-
-[MIT](license.md)
+</div>

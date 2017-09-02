@@ -4,7 +4,32 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title></title>
-    <link rel="stylesheet" href="https://unpkg.com/style.css@1.0.0-alpha-8/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/style.css@1.0.0-beta/style.css">
+    <style>
+      .hero {
+        align-items: center;
+        background: #c2e59c; /* fallback for old browsers */
+        background: -webkit-linear-gradient(to top, #c2e59c, #64b3f4); /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to top, #c2e59c, #64b3f4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        display: flex;
+        min-height: 100vh;
+        justify-content: center;
+      }
+      .hero-body {
+        padding: 3em 1em;
+      }
+      .hero h1 { margin: 0 }
+      .hero h1 .text { display: none }
+      .hero br { display: none }
+      .hero h4 { color: black }
+      .content {
+        max-width: 50em;
+        margin: 2em auto;
+        padding: 25vh 1em;
+      }
+      .content > *:first-child { margin-top: 0 }
+      .content > *:last-child { margin-bottom: 0 }
+    </style>
   </head>
   <body>
     <main class="markdown-body"></main>
