@@ -1,17 +1,10 @@
 {
   "name": "pdxnode",
-  "description": "new website of pdxnode",
+  "description": "repo for managing pdxnode",
   "version": "1.0.0",
   "author": "PDXNode",
   "bugs": {
     "url": "https://github.com/PDXNode/pdxnode/issues"
-  },
-  "devDependencies": {
-    "copyfiles": "^1.2.0",
-    "gh-pages": "^1.0.0",
-    "live-server": "^1.2.0",
-    "npm-run-all": "^4.1.1",
-    "sitedown": "^3.1.1"
   },
   "homepage": "https://github.com/PDXNode/pdxnode#readme",
   "license": "MIT",
@@ -21,15 +14,6 @@
     "url": "git+https://github.com/PDXNode/pdxnode.git"
   },
   "scripts": {
-    "build": "run-s build:*",
-    "build:assets": "mkdir -p build/assets && cp -R assets/*.svg build/assets && echo pdxnode.org > build/CNAME",
-    "build:site": "sitedown . -l assets/layout.html -b build/",
-    "clean": "rm -rf build",
-    "gh-pages": "npm run build && gh-pages -d build",
-    "prebuild": "npm run clean",
-    "serve": "live-server build",
-    "start": "npm-run-all clean build:* --parallel watch serve",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "npm run build:site -- -w"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
