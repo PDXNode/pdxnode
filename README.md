@@ -22,7 +22,7 @@ We organize two meetups every month: one for talks, one for hacks.
 
 ### Presentation Nights
 
-Every 2nd Thursday we put on a presentation night at [Vacasa](https://www.vacasa.com/contact-us/) where the goal is to provide [high-quality presentations](https://www.youtube.com/channel/UCI8MIw5A7ALtIvNHsrYJbjg) from people in the Node community locally and abroad. At the present we typically have local speakers present in person, and other geographically distributed speakers present remotely via [talky.io](https://talky.io/).
+Every 2nd Thursday we put on a presentation night at [Alchemy Code Lab](http://www.alchemycodelab.com/) where the goal is to provide [high-quality presentations](https://www.youtube.com/channel/UCI8MIw5A7ALtIvNHsrYJbjg) from people in the Node community locally and abroad. At the present we typically have local speakers present in person, and other geographically distributed speakers present remotely via [talky.io](https://talky.io/).
 
 ### Hack Nights
 
