@@ -15,7 +15,7 @@ Speaker calendar for PDXNode.
 
 - **Katie Fujihara [@KatieofCode](https://twitter.com/KatieofCode)** - Title/Description coming...
 - **Christian Mello [@christianpmello](https://twitter.com/christianpmello)** - Title/Description coming...
--
+- **David Quisenberry [@dmqpdx16](https://twitter.com/dmqpdx16)** - Introduction to OWASP Juiceshop App Security Playground
 - 
 - 
 - 
