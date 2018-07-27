@@ -14,7 +14,7 @@ Speaker calendar for PDXNode.
 *We are looking for 10 speakers to do 5-10 minute talks each on a topic of your choice. Show us a cool project you have built (this can be your portfolio site or a school project). Teach us about a feature of a language that you think is awesome. Share your experience in getting into tech. The night is yours!*
 
 - **Katie Fujihara [@KatieofCode](https://twitter.com/KatieofCode)** - Title/Description coming...
-- 
+- **Christian Mello [@christianpmello](https://twitter.com/christianpmello)** - Title/Description coming...
 -
 - 
 - 
