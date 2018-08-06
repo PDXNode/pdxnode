@@ -10,7 +10,7 @@ Speaker calendar for PDXNode.
 - **Christian Mello [@christianpmello](https://twitter.com/christianpmello)** - Title/Description coming...
 - **David Quisenberry [@dmqpdx16](https://twitter.com/dmqpdx16)** - Introduction to OWASP Juiceshop App Security Playground
 - **Stephanie Smith [@stephstephsmith](https://twitter.com/stephstephsmith) & Jen Lipton [@jkliptonia](https://twitter.com/jkliptonia)**  - Dad Jokes Library
-- 
+- **Robyn Navarro ([robinhood182](https://github.com/robinhood182)), Mario Quintana ([Quintam26](https://github.com/Quintam26)), Antreo Pukay ([soundparticle](https://github.com/soundparticle)), & Injoong Yoon ([AttilaTheHen](https://github.com/AttilaTheHen))** - Cycle App Back End Demo ([Github repo](https://github.com/team-lipstick/cycle))
 - 
 - 
 - 
