@@ -12,7 +12,7 @@ Speaker calendar for PDXNode.
 - **Stephanie Smith [@stephstephsmith](https://twitter.com/stephstephsmith) & Jen Lipton [@jkliptonia](https://twitter.com/jkliptonia)**  - Dad Jokes Library
 - 
 - 
-- 
+- **Arthur Jen, Mark Myers, Sarah Rehmer** - Chatbot Game Demo inspired by HAL from 2001: A Space Odyssey ([GitHub Repo](https://github.com/team-dart/HALchemy))
 - 
 - 
 -
