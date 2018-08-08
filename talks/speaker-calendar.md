@@ -12,7 +12,7 @@ Speaker calendar for PDXNode.
 - **Stephanie Smith [@stephstephsmith](https://twitter.com/stephstephsmith) & Jen Lipton [@jkliptonia](https://twitter.com/jkliptonia)**  - Dad Jokes Library
 - **Robyn Navarro ([robinhood182](https://github.com/robinhood182)), Mario Quintana ([Quintam26](https://github.com/Quintam26)), Antreo Pukay ([soundparticle](https://github.com/soundparticle)), & Injoong Yoon ([AttilaTheHen](https://github.com/AttilaTheHen))** - Cycle App Back End Demo ([Github repo](https://github.com/team-lipstick/cycle))
 - **Robert Thompson ([rbtprograms](https://github.com/rbtprograms)), Carrie Carter ([carriecarter](https://github.com/carriecarter)), Mariah Adams ([MariahAdams](https://github.com/MariahAdams))** - Escape the City - A backend construction using Node, Express, and MongoDB ([Github repo](https://github.com/team-statue-of-liberty/escape-the-city))
-- 
+- **Danh Nguyen ([NguyenDa18](https://github.com/NguyenDa18))** - Useful Learning Resources and Story Idea Pitch
 - 
 - 
 -
