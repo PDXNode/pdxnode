@@ -26,7 +26,9 @@ Every 2nd Thursday we put on a presentation night at [Alchemy Code Lab](http://w
 
 ### Hack Nights
 
-Every last Thursday we put on a hack night at [Ctrl-H Hackerspace](http://pdxhackerspace.org/) where the goal is to provide a fun and easy-going environment for individuals & groups to hack on their own projects and ask questions along the way, as well as support begginers and people who are new to Node with help in answering questions and pair-coding.
+Every last Thursday we put on a hack night at [Ctrl-H Hackerspace](http://pdxhackerspace.org/) where the goal is to provide a fun and easy-going environment for individuals & groups to hack on their own projects and ask questions along the way, as well as support begginers and people who are new to Node with help in answering questions and pair-coding. 
+
+**NEW!** Starting in August 2018, we will have hardware at our hack nights that you can learn on. A good place to start is the [Nodebot Workshop](https://www.npmjs.com/package/nodebot-workshop) which we used as part of International Nodebots Day 2018.
 
 ## How To Talk
 
