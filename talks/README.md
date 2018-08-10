@@ -1,7 +1,7 @@
 # Talks
 
 ## Checkout our Speaker Calendar
-See upcoming speakers and find links to connect with speakers from previous events.
+See upcoming speakers and find links to connect with speakers from previous events. We also have a [YouTube Channel](https://www.youtube.com/channel/UCI8MIw5A7ALtIvNHsrYJbjg) where you can catch up on talks from previous events
 - [Speaker Calendar](./speaker-calendar.md)
 - [Submitted Talks](./SubmittedTalks/README.md)
 
@@ -28,13 +28,4 @@ See upcoming speakers and find links to connect with speakers from previous even
 **Have More Questions? Want to chat?**
   - Connect with an organizer via Twitter DM [@PDXNode](https://twitter.com/pdxnode) or come chat with us on [#pdxnode](http://webchat.freenode.net/?channels=pdxnode&uio=d4) on freenode or via our [gitter channel](https://gitter.im/pdxnode/Lobby).
 
----
-
-## Speaker Calendar
-See upcoming speakers and find links to connect with speakers from previous events.
-- [Speaker Calendar](./speaker-calendar.md)
-
-## Previously Submitted Talks:
-- [Submitted Talks](./SubmittedTalks/README.md)
-- Check out our [YouTube Channel](https://www.youtube.com/channel/UCI8MIw5A7ALtIvNHsrYJbjg) to watch talks from previous events
 
