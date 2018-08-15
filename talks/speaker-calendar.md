@@ -48,6 +48,7 @@
 
 ## July 18, 2018 : Special OSCON Edition
 
-- **Daniel Lemay [@dslemay](https://twitter.com/dslemay)** - Build Better and Discoverable APIs with GraphQL
+- **Daniel Lemay [@dslemay](https://twitter.com/dslemay)** - Build Better and Discoverable APIs with GraphQLWa
+  - Watch Daniel's talk on [YouTube](https://www.youtube.com/watch?v=70_FCQytuCY)
 - **Sarah Joy Calpo [@superissarah](https://twitter.com/superissarah)** - Publishing your first NPM package
   - Watch Sarah Joy's talk on [YouTube](https://www.youtube.com/watch?v=YLXfiBDvaj4)
