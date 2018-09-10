@@ -10,14 +10,12 @@ This presentation will describe the Minimal Viable Documentation (MVD) for RESTf
 
 Based loosely on Kristof Van Tomme's presentations on Developer Experience, Mike will describe the MVD for a developer portal, what will help your developers try out your APIs.
 
-Mike will present viable examples of: 
+Josh will present the following core topics: 
 
-* `Landing Pages` that describe the API
-* `Tutorials` that help the user get started
-* `Blogs` that show active development
-* `Reference` information satisfied by the OpenAPI specification
-
-This is a preview of a talk that Mike will give at the API Strategy Conference in Nashville on September 26, ref https://events.linuxfoundation.org/events/apistrat-2018/program/schedule/
+* `Games in the browser` - The building blocks for a local, in-browser game
+* `Network architecture` - Connecting players over the internet
+* `State synchronization` - Creating an authoritative game state timeline
+* `Optimizations` - Latency estimation, reducing bandwidth, etc..
 
 ## Josh Nelson
 
