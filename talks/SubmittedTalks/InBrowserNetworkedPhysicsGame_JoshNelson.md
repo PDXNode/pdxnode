@@ -1,6 +1,6 @@
 # Talk Submission Template
 
-## Minimum Viable Documentation for RESTful APIs
+## Building an In-Browser Networked Physics Game
 
 To paraphrase a James Bond movie, "Swagger is not enough". 
 
@@ -19,12 +19,14 @@ Mike will present viable examples of:
 
 This is a preview of a talk that Mike will give at the API Strategy Conference in Nashville on September 26, ref https://events.linuxfoundation.org/events/apistrat-2018/program/schedule/
 
-## Mike Jang
+## Josh Nelson
 
-Senior Staff Technical Writer, ForgeRock
+Software Engineer
 
-As a senior technical writer for ForgeRock, Mike spends much of his time documenting how deployers can modify JavaScript to customize web applications. He still has to help maintain over 200 curl commands in product documentation.
+Josh is a software engineer with a management background from Portland State University. Josh has over 2 years of programming experience working with technologies such as React, Node, Rails, and Backbone. Josh enjoys tackling challenging problems and working with others to build robust systems.
 
-He has also written a couple dozen technical books, mostly focused on Linux certification, and is the author of O’Reilly’s Linux Annoyances for Geeks.
+More should go here.
 
-He's a bit embarrased by his Git Hub account, https://github.com/mjang
+Josh's GitHub account => https://github.com/joshcnelson
+Josh's Website => https://joshcnelson.github.io
+PlinkoJS => www.plinkojs.com
