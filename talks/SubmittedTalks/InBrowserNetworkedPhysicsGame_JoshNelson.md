@@ -6,7 +6,7 @@ Making a game is simple, right?
 
 How about adding physics to it? What if we ran it in the browser and made it a real-time multiplayer? 
 
-I think you can see that very quickly what was once a straightforward challenge has ballooned into a much more signifcant undertaking. The browser is not a particularly friendly environment for multiplayer games, especially those that need to be responsive in real-time.
+I think you can see that very quickly what was once a straightforward challenge has ballooned into a much more signifcant undertaking. The browser is not a particularly friendly environment for multiplayer games, especially those that need to be responsive and real-time.
 
 This presentation will walk us through core challenges that every developer will face when trying to make an in-browser game and how they can overcome them. Josh will highlight key concepts and solutions using a game he recently built as an example, PlinkoJS. 
 
