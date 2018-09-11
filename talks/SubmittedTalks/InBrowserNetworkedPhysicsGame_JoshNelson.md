@@ -1,30 +1,27 @@
 # Talk Submission Template
 
-## Building an In-Browser Networked Physics Game
+## Building an In-Browser, Networked Physics Game
 
-To paraphrase a James Bond movie, "Swagger is not enough". 
+Making a game is simple, right? 
 
-You've done the work to set up OpenAPI specification REST calls for your APIs (Inaccurately known as Swagger). You have reference information. But you discover that few users are actually trying REST calls on your system. You're wondering: "What else do I need?"
+How about adding physics to it? What if we ran it in the browser and made it a real-time multiplayer? 
 
-This presentation will describe the Minimal Viable Documentation (MVD) for RESTful APIs, also known as "What do I need for my developer portal?"
+I think you can see that very quickly what was once a straightforward challenge has ballooned into a much more signifcant undertaking. The browser is not a particularly friendly environment for multiplayer games, not even counting those that need to be real-time.
 
-Based loosely on Kristof Van Tomme's presentations on Developer Experience, Mike will describe the MVD for a developer portal, what will help your developers try out your APIs.
+This presentation will walk us through core challenges that every developer will face when trying to make an in-browser game and how they can overcome them. Josh will highlight key concepts and solutions using a game he recently built as an example, PlinkoJS. 
 
-Josh will present the following core topics: 
+The following core topics will be covered: 
 
 * `Games in the browser` - The building blocks for a local, in-browser game
 * `Network architecture` - Connecting players over the internet
-* `State synchronization` - Creating an authoritative game state timeline
-* `Optimizations` - Latency estimation, reducing bandwidth, etc..
+* `State synchronization` - Creating and maintaining an authoritative game state
+* `Optimizations` - Reducing bandwidth and latency estimation
 
 ## Josh Nelson
 
 Software Engineer
 
-Josh is a software engineer with a management background from Portland State University. Josh has over 2 years of programming experience working with technologies such as React, Node, Rails, and Backbone. Josh enjoys tackling challenging problems and working with others to build robust systems.
-
-More should go here.
+Josh is a software engineer with a management background from Portland State University. He has experience working with technologies such as React, Node, Rails, Backbone, and more and enjoys tackling challenging problems and working with others to build robust systems.
 
 Josh's GitHub account => https://github.com/joshcnelson
-Josh's Website => https://joshcnelson.github.io
 PlinkoJS => www.plinkojs.com
