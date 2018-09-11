@@ -16,7 +16,7 @@
 
 *We are looking for 2 speakers who can talk for ~30 minutes each on a Node.js topic, or JavaScript in general.*
 
-- **Josh Nelson** - Building an In-Browser Networked Physics Game ([Talk Submission / Details](/talks/SubmittedTalks/MinimumViableAPIDocs_mikeJang.md))
+- **Josh Nelson** - Building an In-Browser, Networked Physics Game ([Talk Submission / Details](/talks/SubmittedTalks/MinimumViableAPIDocs_mikeJang.md))
 -
 
 ## November 2018 : Presentation Night
