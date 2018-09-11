@@ -23,5 +23,5 @@ Software Engineer
 
 Josh is a software engineer with a management background from Portland State University. He has experience working with technologies such as React, Node, Rails, Backbone, and more and enjoys tackling challenging problems and working with others to build robust systems.
 
-- Josh's GitHub account:  https://github.com/joshcnelson
 - PlinkoJS: www.plinkojs.com
+- Josh's GitHub:  https://github.com/joshcnelson
