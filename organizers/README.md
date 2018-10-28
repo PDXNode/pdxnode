@@ -12,18 +12,15 @@ We're so grateful you're here to help! One key aspect about being a regular PDXN
 
 PDXNode produces two different types of meetup every month.
 
-Every 2nd Thursday we put on a presentation night at [Vacasa](https://www.vacasa.com/contact-us/) where the goal is to provide high-quality presentations from people in the Node community locally and abroad. At the present we typically have local speakers present in person, and other geographically distributed speakers present remotely via talky.io.
+Every 2nd Thursday we put on a presentation night at [Alchemy Code Lab](https://www.alchemycodelab.com/) where the goal is to provide high-quality presentations from people in the Node community locally and abroad. At the present we typically have local speakers present in person, and other geographically distributed speakers present remotely via talky.io.
 
 Every last Thursday we put on a hack night at [Ctrl-H Hackerspace](http://pdxhackerspace.org/) where the goal is to provide a fun and easy-going environment for individuals & groups to hack on their own projects and ask questions along the way, as well as support begginers and people who are new to Node with help in answering questions and pair-coding.
 
-For each meetup, make a new directory with an `index.md` at least a month or two in advance -- name the directory in the style, `2017-jan`. Once the talks for the meetup are finalized, put the lineup in `index.md` with relative links to the talks.
+## Monthly Call
 
-## Weekly Videochat & Meeting Recap GoogleDoc
-
-Every 1st and 3rd Thursday evening of the month (weeks we're not putting on a meetup) we have an organizer's videochat call at 7pm. It typically lasts 10-15 minutes, but is subject to go a bit longer depending on the ground we have to cover for meetup preparation that week. Weekly meeting notes are documented in a GoogleDoc (you'll need to obtain view/edit permission from another organizer).
+The Wednesday inbetween the presentation night and the hack night we have an organizer's videochat call at 8pm. It typically lasts about an hour. Meeting notes are documented in this repo.
 
 * Meeting location: [talky.io/pdxnode](https://talky.io/pdxnode)
-* [GoogleDoc](https://docs.google.com/document/d/1U8oPDxXrKFh7paydStRiTyUW52gvURMfAii_LB2V-lA/edit)
 
 ## Meetup.com Org
 
