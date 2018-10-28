@@ -1,4 +1,4 @@
-# Michelle is awesome!
+# Jordan is awesome!
 
 ## Current organizational roles
 * Community growth & engagement: Cross-organization collaboration, community partnerships
