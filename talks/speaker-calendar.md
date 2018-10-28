@@ -5,20 +5,6 @@
 
 # Upcoming Speakers<a id="upcoming"></a>:
 
-## September 2018 : Presentation Night
-
-*We are looking for 2 speakers who can talk for ~30 minutes each on a Node.js topic, or JavaScript in general.*
-
-- **Mike Jang [@TheMikeJang](https://twitter.com/TheMikeJang)** - Minimum Viable Documentation for RESTful APIs ([Talk Submission / Details](/talks/SubmittedTalks/MinimumViableAPIDocs_mikeJang.md))
--
-
-## October 2018 : Presentation Night
-
-*We are looking for 2 speakers who can talk for ~30 minutes each on a Node.js topic, or JavaScript in general.*
-
-- **Josh Nelson** - Building an In-Browser, Networked Physics Game ([Talk Submission / Details](/talks/SubmittedTalks/InBrowserNetworkedPhysicsGame_JoshNelson.md))
--
-
 ## November 2018 : Presentation Night
 
 *We are looking for 2 speakers who can talk for ~30 minutes each on a Node.js topic, or JavaScript in general.*
@@ -32,6 +18,14 @@
 # Previous Speakers<a id="past"></a>:
 
 *Did you know?* We have a [YouTube Channel](https://www.youtube.com/channel/UCI8MIw5A7ALtIvNHsrYJbjg) where you can catch up on awesome talks from previous events!
+
+## October 2018 : Presentation Night
+
+- **Josh Nelson** - Building an In-Browser, Networked Physics Game ([Talk Submission / Details](/talks/SubmittedTalks/InBrowserNetworkedPhysicsGame_JoshNelson.md))
+
+## September 2018 : Presentation Night
+
+- **Mike Jang [@TheMikeJang](https://twitter.com/TheMikeJang)** - Minimum Viable Documentation for RESTful APIs ([Talk Submission / Details](/talks/SubmittedTalks/MinimumViableAPIDocs_mikeJang.md))
 
 ## August 9, 2018 : Lightning Talks
 
