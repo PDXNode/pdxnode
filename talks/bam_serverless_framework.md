@@ -7,7 +7,7 @@ The BAM! framework is made for humans. It’s quick. It’s easy to use. And it 
 
 ## Speaker Jason Overby
 
-![Jason Overby avatar](https://github.com/jasono?size=40)
+![Jason Overby avatar](https://github.com/jasonoverby?size=40)
 Check out my Github page [here](https://github.com/jasonoverby).
 
 I have several years experience with a variety of languages and technologies, including Node.js, Ruby, PostgreSQL, React/Redux, and Rails.
