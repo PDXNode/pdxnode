@@ -5,7 +5,8 @@
 
 BAM! is a serverless framework designed to mitigate some of the challenges faced
 when working with Amazon Web Services (AWS).  It is optimized for the deployment
-of AWS Lambda functions integrated with Amazon API Gateway endpoints.
+of AWS Lambda functions integrated with Amazon API Gateway endpoints.  BAM! was
+written in JavaScript and supports the Node.js runtime for AWS Lambdas.
 
 This presentation will discuss the landscape surrounding serverless
 technologies, the challenges of working with AWS, and design choices made when
