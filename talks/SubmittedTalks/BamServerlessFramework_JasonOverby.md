@@ -3,15 +3,13 @@
 
 ## Building a serverless framework
 
-BAM! is a serverless framework that makes it quick (hence, the name) and easy to
-get small applications up and running using Node.js and Amazon Web Services
-(AWS). It is optimized for the deployment of AWS Lambda functions integrated
-with Amazon API Gateway endpoints, but also allows for the creation of Amazon
-DynamoDB tables, which can be used to persist data between lambda invocations.
+BAM! is a serverless framework designed to mitigate some of the challenges faced
+when working with Amazon Web Services (AWS).  It is optimized for the deployment
+of AWS Lambda functions integrated with Amazon API Gateway endpoints.
 
 This presentation will discuss the landscape surrounding serverless
-technologies, the challenges of working with AWS, and design choices made for
-BAM!
+technologies, the challenges of working with AWS, and design choices made when
+building a serverless framework.
 
 Topics included:
 
@@ -28,9 +26,7 @@ Topics included:
 Jason Overby is a software engineer with a background in management.  He has
 experience with a variety of languages and technologies, including Node.js,
 Ruby, PostgreSQL, React/Redux, and Rails, and he has spent a lot of time with
-Amazon Web Services, such as Lambda and API Gateway.
-
-I am currently looking for opportunities.
+Amazon Web Services, specifically as Lambda and API Gateway.
 
 * [Github](https://github.com/jasonoverby)
 * [BAM!](https://bam-lambda.com)
