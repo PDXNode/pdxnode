@@ -1,7 +1,7 @@
 
 # Talk Submission Template
 
-## BAM!, a lightweight, serverless framework used to quickly build and deploy applications with Node.js and AWS
+## Building a serverless framework
 
 BAM! is a serverless framework that makes it quick (hence, the name) and easy to
 get small applications up and running using Node.js and Amazon Web Services
