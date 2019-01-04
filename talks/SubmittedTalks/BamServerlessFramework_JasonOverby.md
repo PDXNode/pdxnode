@@ -23,6 +23,8 @@ Topics included:
 
 ![Jason Overby avatar](https://github.com/jasonoverby.png?size=80)
 
+Software Engineer
+
 Jason Overby is a software engineer with a background in management.  He has
 experience with a variety of languages and technologies, including Node.js,
 Ruby, PostgreSQL, React/Redux, and Rails, and he has spent a lot of time with
