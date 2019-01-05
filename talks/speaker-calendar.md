@@ -5,12 +5,27 @@
 
 # Upcoming Speakers<a id="upcoming"></a>:
 
-## November 2018 : Presentation Night
+## January 10, 2019 : Presentation Night
 
 *We are looking for 2 speakers who can talk for ~30 minutes each on a Node.js topic, or JavaScript in general.*
 
+- **Jason Overby** - Building a serverless framework ([Talk Submission / Details](/talks/SubmittedTalks/BamServerlessFramework_JasonOverby.md))
 -
+
+## February 14, 2019 : Presentation Night
+
+*We are looking for 2 speakers who can talk for ~30 minutes each on a Node.js topic, or JavaScript in general.*
+
+- 
 -
+
+## March 14, 2019 : Presentation Night
+
+*We are looking for 2 speakers who can talk for ~30 minutes each on a Node.js topic, or JavaScript in general.*
+
+- 
+-
+
 
 ----
 ----
