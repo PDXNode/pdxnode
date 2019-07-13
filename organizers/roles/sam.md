@@ -1,4 +1,4 @@
-# Sam is nawesome!
+# Sam is awesome!
 
 ## Current Organizational Roles
 * MC responsibilities
