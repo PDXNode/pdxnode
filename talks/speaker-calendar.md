@@ -53,7 +53,7 @@
 *We are looking for up to 10 speakers to do 5-10 minute talks each on a topic of your choice. Show us a cool project you have built (this can be your portfolio site or a school project). Teach us about a feature of a language that you think is awesome. Share your experience in getting into tech. The night is yours!*
 
 - **Katie Fujihara [@KatieofCode](https://twitter.com/KatieofCode)** - Title/Description coming...
-- **Christian Mello [@christianpmello](https://twitter.com/christianpmello)** - Down the Smart Home Rabbit Hole
+- **Meredith Mello [@merryMellody](https://twitter.com/merryMellody)** - Down the Smart Home Rabbit Hole
 - **David Quisenberry [@dmqpdx16](https://twitter.com/dmqpdx16)** - Introduction to OWASP Juiceshop App Security Playground
 - **Stephanie Smith [@stephstephsmith](https://twitter.com/stephstephsmith) & Jen Lipton [@jkliptonia](https://twitter.com/jkliptonia)**  - Dad Jokes Library
 - **Arthur Jen, Mark Myers, Sarah Rehmer** - Chatbot Game Demo inspired by HAL from 2001: A Space Odyssey ([GitHub Repo](https://github.com/team-dart/HALchemy))
