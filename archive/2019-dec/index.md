@@ -19,7 +19,7 @@ The first was a multiplayer coin-collecting race, with the server needing to ver
 * Repository: [pvp-battle](https://github.com/dannyhogan/pvp-battle)
 * App link: [Space Battle](https://space-battle-io.herokuapp.com/)
 
-### Presentation 2: Node.js on (Raspberry) Pi: A Crash Course: [Martn Berka](https://github.com/mberka)
+### Presentation 2: Node.js on (Raspberry) Pi: A Crash Course: [Martin Berka](https://github.com/mberka)
 
 * **Talk**: Node.js on (Raspberry) Pi: A Crash Course
 * **Description**: A quick introduction to the hardware of a Raspberry Pi, followed by a maximally simplified procedure for getting a minimal headless Pi running Node.js without keyboard or monitor. Highlighted the [Comitup library](https://github.com/davesteele/comitup) for easy WiFi connection via captive portal.
